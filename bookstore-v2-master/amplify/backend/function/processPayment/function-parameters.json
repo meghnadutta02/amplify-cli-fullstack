@@ -1,0 +1,7 @@
+{
+  "lambdaLayers": [],
+  "secretNames": [
+    "USER_POOL_ID",
+    "STRIPE_SECRET"
+  ]
+}
